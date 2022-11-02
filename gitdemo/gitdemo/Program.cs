@@ -7,7 +7,7 @@ namespace gitdemo
         static void Main(string[] args)
         {
             GetName();
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello, how are you!?");
         }
 
         private static void GetName()
